@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
    
    
     - <a href="https://blog.naver.com/did7121">한스쿱, 블로그</a>
-    - ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198240997-8cccb647-040f-443e-8d7f-0d16e850836e.jpg) {: width="30%"}
+    - ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198240997-8cccb647-040f-443e-8d7f-0d16e850836e.jpg){: width="100" height="200"}
 
 content:
   - title: Projects # Title for the section
