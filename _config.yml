@@ -16,7 +16,7 @@ website: did7121.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: never
+darkmode: true
 
 # Social links
 twitter_username: jekyllrb
@@ -54,7 +54,8 @@ about_content: | # this will include new lines to allow paragraphs
     - Lists
     - Tables
     - <a href="http://34.134.53.255:8000/">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    - Images ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198217619-e1319c51-ee5d-4c60-a87b-06c3e76771bb.jpg)
+
 
 content:
   - title: Projects # Title for the section
