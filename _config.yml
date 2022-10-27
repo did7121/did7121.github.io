@@ -46,7 +46,6 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "https://user-images.githubusercontent.com/85928740/198295488-c72a83d6-3d5b-4fed-b385-579556a4a0c7.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://google.com) and highlight things <mark>like this</mark>.
 
    
     - 이름 : 양유진
