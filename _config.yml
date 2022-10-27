@@ -16,12 +16,12 @@ website: did7121.github.io
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
-darkmode: true
+darkmode: never
 
 # Social links
 twitter_username: jekyllrb
 github_username:  jekyll
-facebook_username: cyaniccold
+facebook_username: "https://www.facebook.com/cyaniccold/"
 instagram_username: cyanic_cold
 linkedin_username: jekyll
 xing_username: jekyll
