@@ -68,7 +68,7 @@ content:
         title: 씨애랑 소프트웨어 전시회
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
-         additional_links:
+        additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
