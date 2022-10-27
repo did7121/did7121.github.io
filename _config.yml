@@ -51,8 +51,8 @@ about_content: | # this will include new lines to allow paragraphs
   You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
     - Lists
     - Tables
-    - <a href="google.com">Links</a>
-    - Images ![alt text](/images/landscape-trees.jpg "Trees")
+    - <a href="http://34.134.53.255:8000/">Links</a>
+    - Images ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198240997-8cccb647-040f-443e-8d7f-0d16e850836e.jpg)
 
 content:
   - title: Projects # Title for the section
