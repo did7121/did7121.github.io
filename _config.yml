@@ -65,7 +65,7 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: 씨애랑 소프트웨어 전시회
+        title: Project name
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
         additional_links:
@@ -76,10 +76,9 @@ content:
             icon: fab fa-github
             url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          아직 준비중에 있음.
+          Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
-          - 주제 : 차량 공격(DoS, Fuzzy, Free, Malfunction) IVN 데이터셋을 분석하여 취약점 분석 및 시나리오 연구
-          
+          Description about the work on/with the project
   - title: Experience
     layout: list
     content:
