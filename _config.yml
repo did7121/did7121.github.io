@@ -49,7 +49,10 @@ about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://google.com) and highlight things <mark>like this</mark>.
 
    
-   
+    - 이름 : 양유진
+    - 생년월일 : 2001.04.22
+    - 전공 : 소프트웨어융합대학 빅데이터전공
+    - 관심 분야 : 보안, 웹/앱 개발 및 디자인
     - <a href="https://blog.naver.com/did7121">한스쿱, 블로그</a>
     - ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198240997-8cccb647-040f-443e-8d7f-0d16e850836e.jpg){: width="50%"}
 
