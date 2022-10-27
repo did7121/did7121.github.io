@@ -46,13 +46,15 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: "https://user-images.githubusercontent.com/85928740/198295488-c72a83d6-3d5b-4fed-b385-579556a4a0c7.jpg"
 about_content: | # this will include new lines to allow paragraphs
-  # Introduce yourself
+  ## Introduce yourself
 
    
     - 이름 : 양유진
     - 생년월일 : 2001.04.22
     - 전공 : 소프트웨어융합대학 빅데이터전공
     - 관심 분야 : 보안, 웹/앱 개발 및 디자인
+    - 취미 : 책 읽기, 코딩 문제 풀기, 영화보기, 헬스
+    - 특기 : 자신의 감정을 일기로 쓰기
     - <a href="https://blog.naver.com/did7121">한스쿱, 블로그</a>
     - ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198240997-8cccb647-040f-443e-8d7f-0d16e850836e.jpg){: width="50%"}
 
@@ -63,20 +65,18 @@ content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
+        title: 씨애랑 소프트웨어 전시회
         link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         link_text: Link Text
-        additional_links:
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
-          Short overview of the project (optional)
+          아직 준비중에 있음.
         description: | # this will include new lines to allow paragraphs
-          Description about the work on/with the project
+          - 주제 : 차량 공격(DoS, Fuzzy, Free, Malfunction) IVN 데이터셋을 분석하여 취약점 분석 및 시나리오 연구
+          ## 프로젝트 개발 툴
+          - Python
+          - Google Colab
+          - Kali Linux
+          - wireshark
   - title: Experience
     layout: list
     content:
