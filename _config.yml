@@ -46,10 +46,10 @@ additional_links:
 # about_title: About Me (Use this to override about section title)
 about_profile_image: ![photo](https://user-images.githubusercontent.com/85928740/198295488-c72a83d6-3d5b-4fed-b385-579556a4a0c7.jpg)
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
+  Write an awesome description about yourself here, this supports markdown, so you can add [links](http://google.com) and highlight things <mark>like this</mark>.
 
    
-    - Tables
+   
     - <a href="https://blog.naver.com/did7121">한스쿱, 블로그</a>
     - ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198240997-8cccb647-040f-443e-8d7f-0d16e850836e.jpg)
 
