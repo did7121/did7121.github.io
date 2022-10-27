@@ -48,11 +48,10 @@ about_profile_image: Directory of profile image (eg. images/profile.jpg)
 about_content: | # this will include new lines to allow paragraphs
   Write an awesome description about yourself here, this supports markdown, so you can add [links](http://foobar.com) and highlight things <mark>like this</mark>.
 
-  You can even add paragraphs by using empty lines like this and add anything else [markdown](https://www.markdownguide.org/getting-started#what-is-markdown) supports such as
-    - Lists
+   
     - Tables
-    - <a href="http://34.134.53.255:8000/">Links</a>
-    - Images ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198240997-8cccb647-040f-443e-8d7f-0d16e850836e.jpg)
+    - <a href="http://34.134.53.255:8000/">한스쿱, 블로그</a>
+    - ![KakaoTalk_20221005_173337859](https://user-images.githubusercontent.com/85928740/198240997-8cccb647-040f-443e-8d7f-0d16e850836e.jpg)
 
 content:
   - title: Projects # Title for the section
