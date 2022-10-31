@@ -96,14 +96,14 @@ content:
     content:
       - layout: top-right
         title: School life 
-        description: | # this will include new lines to allow paragraphs
-        # educational background
-          - 한림성심대학교 입학(2020년도)
-          - 한림대학교 편입(2022년도)
-        # Major subject
-          - 1학년~2학년 -> 경영, 경제, 회계, 코딩
-          - 3학년 1학기 -> C프로그래밍, 이산구조론, 영상처리프로그래밍, 정보보호론, 웹프로그래밍
-          - 3학년 2학기 -> 네트워크보안, 데이터통신, 보안진단컨설팅, 4차산업혁명과 창업, 오픈소스SW 개발도구활용
+         quote:
+           # educational background
+            - 한림성심대학교 입학(2020년도)
+            - 한림대학교 편입(2022년도)
+           # Major subject
+            - 1학년~2학년 -> 경영, 경제, 회계, 코딩
+            - 3학년 1학기 -> C프로그래밍, 이산구조론, 영상처리프로그래밍, 정보보호론, 웹프로그래밍
+            - 3학년 2학기 -> 네트워크보안, 데이터통신, 보안진단컨설팅, 4차산업혁명과 창업, 오픈소스SW 개발도구활용
   - title: A Little More About Me
     layout: text
     content: | # this will include new lines to allow paragraphs
