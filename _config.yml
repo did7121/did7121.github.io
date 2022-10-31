@@ -96,7 +96,7 @@ content:
     content:
       - layout: top-right
         title: School life 
-        quote:
+        description: | # this will include new lines to allow paragraphs
         # educational background
           - 한림성심대학교 입학(2020년도)
           - 한림대학교 편입(2022년도)
