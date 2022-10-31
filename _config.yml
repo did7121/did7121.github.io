@@ -77,7 +77,7 @@ content:
           아직 준비 중에 있음
         description: | # this will include new lines to allow paragraphs
            - 주제 : 차량 공격(DoS, Fuzzy, Free, Malfunction) IVN 데이터셋을 분석하여 취약점 분석 및 시나리오 연구
-           ## 프로젝트 개발 툴
+           # 프로젝트 개발 툴
           - Python
           - Google Colab
           - Kali Linux
