@@ -89,8 +89,8 @@ content:
         title: Group career
         caption: 2022~
         description: | # this will include new lines to allow paragraphs
-          # 2022년 소프트웨어융합대학 4대 학생회
-          # 동아리 씨애랑 운영진 (2022~)
+          ## 2022년 소프트웨어융합대학 4대 학생회
+          ## 동아리 씨애랑 운영진 (2022~)
   - title: Education
     layout: list
     content:
